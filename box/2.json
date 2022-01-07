@@ -4,12 +4,12 @@
   "image": "https://raw.githubusercontent.com/crytwaifu/ipsf/main/box/image/02.jpg",
   "attributes": [
     {
-      "trait_type": "Rarity", 
-      "value": "Rare"
-    },
-    {
       "trait_type": "Type", 
       "value": "Character"
+    },
+    {
+      "trait_type": "Rarity", 
+      "value": "Rare"
     }
 ]
 }
