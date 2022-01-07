@@ -2,7 +2,10 @@
   "name": "Character Common Mystery Boxes",
   "description": "Mysterious Box of Common to Legendary Rarity Characters",
   "image": "https://raw.githubusercontent.com/crytwaifu/ipsf/main/box/image/01.jpg",
-  "external_link": "https://polywaifu.io/",
-  "seller_fee_basis_points": 100,
-  "fee_recipient": "0x9eb6c0BeE97484C24971dC2cf1CB6Cc6DE16d656"
+  "attributes": [
+    {
+      "trait_type": "Rarity", 
+      "value": "Common"
+    }
+]
 }
