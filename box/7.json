@@ -1,0 +1,15 @@
+{
+  "name": "Legendary Weapon Mystery Box",
+  "description": "Mysterious Box of Legendary to Mythical Rarity Weapon",
+  "image": "https://raw.githubusercontent.com/crytwaifu/ipsf/main/box/image/07.png",
+    "attributes": [
+    {
+      "trait_type": "Type", 
+      "value": "Weapon"
+    },
+    {
+      "trait_type": "Rarity", 
+      "value": "Common"
+    }
+]
+}
