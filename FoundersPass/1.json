@@ -1,0 +1,11 @@
+{
+  "name": "Founders Pass",
+  "description": "This Pass entitles holders to participate in all drops, whitelists and coin launches.",
+  "image": "https://raw.githubusercontent.com/crytwaifu/ipsf/main/FoundersPass/image/01.jpg",
+    "attributes": [
+    {
+      "trait_type": "Type", 
+      "value": "FoundersPass"
+    }
+]
+}
